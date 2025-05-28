@@ -7,6 +7,8 @@ The repository provides two main components:
 - **Hierarchical Scaling**: A method for scaling traffic variables from an LD-equipped subnetwork to non-equipped links using road hierarchy information.
 - **Variogram-based Imputation**: A geostatistical approach for estimating missing traffic states based on spatial dependencies captured by empirical variograms.
 
+![[Variogram](https://github.com/licit-lab/mfd_scaling/main/pictures/variogram.jpg?raw=true)](https://github.com/licit-lab/mfd_scaling/blob/main/pictures/variogram.jpg)
+
 ## Contents
 
 - `hierarchical_scaling.ipynb`: Jupyter Notebook demonstrating the hierarchical scaling methodology, including:
