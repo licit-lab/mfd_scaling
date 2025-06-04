@@ -9,7 +9,7 @@ The repository provides two main components:
 
 ![[Variogram](https://github.com/licit-lab/mfd_scaling/main/pictures/variogram.jpg?raw=true)](https://github.com/licit-lab/mfd_scaling/blob/main/pictures/variogram.jpg)
 
-![Scaling results](https://github.com/licit-lab/mfd_scaling/blob/main/pictures/eq_neq_flow.jpg)
+![Hierarchical Scaling results](https://github.com/licit-lab/mfd_scaling/blob/main/pictures/eq_neq_flow.jpg)
 
 ## Contents
 
