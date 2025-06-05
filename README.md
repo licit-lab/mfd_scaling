@@ -1,7 +1,7 @@
 # mfd_scaling: Hierarchical Scaling and Variogram-based Imputation
 
 This repository contains the Python notebooks and code used in the paper:
-**"Scaling Methods for Estimating Macroscopic Fundamental Diagrams in Urban Networks with Sparse Stationary Sensor Coverage"**.
+**"Maiti, N., Seppecher, M., & Leclercq, L. Scaling Methods for Estimating Macroscopic Fundamental Diagrams in Urban Networks with Sparse Stationary Sensor Coverage, Transportation Research Part C: Emerging Technologies (2025)"**.
 
 The repository provides two main components:
 - **Hierarchical Scaling**: A method for scaling traffic variables from an LD-equipped subnetwork to non-equipped links using road hierarchy information.
